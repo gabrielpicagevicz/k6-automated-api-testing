@@ -128,3 +128,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*k6-grafana-automacao-api-pokemon
+k6-grafana-automacao-api-pokemon/.git
